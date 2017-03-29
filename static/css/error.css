@@ -1,0 +1,36 @@
+#app {
+  font-family: 'Avenir', Helvetica, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-align: center;
+  color: #2c3e50;
+  margin-top: 60px;
+}
+.monitor-header{
+  float: left;
+  color: #fff;
+}
+.f-orange {
+	color: #ed9c00;
+}
+.f-fs14{
+	font-size: 14px;
+}
+.f-fwb{
+	font-weight: bold;
+}
+.f-gray{
+	color: #a0a0a0;
+}
+#error-table tbody tr td{
+	vertical-align: middle;
+}
+ul.main-menu > li > a.router-link-active{
+	background-color: #4CA63A;
+    opacity: 0.8;
+    color: #fff;
+}
+.shifter{
+	word-break: break-all;
+	word-wrap: break-word;
+}
